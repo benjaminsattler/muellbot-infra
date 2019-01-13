@@ -1,0 +1,4 @@
+k8s/config/*.env
+k8s/secrets/*.secrets
+k8s/secrets/*.token
+*.mk

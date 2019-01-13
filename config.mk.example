@@ -1,0 +1,2 @@
+# Specify the context to use for deploying resources to
+K8S_CONTEXT_NAME = your-k8s-context-name
