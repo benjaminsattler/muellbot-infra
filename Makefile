@@ -1,4 +1,5 @@
-include config.mk
+-include config.mk
+
 K8S_CONFIG_DIR = k8s/
 
 K8S_CONFIG_SECRETS = ${K8S_CONFIG_DIR}secrets/prod.secrets
